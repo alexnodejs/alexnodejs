@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Alex
 
-**Software Engineer**
+**Principal Software Engineer**
+
 Bridging the gap between Enterprise Node.js systems and Generative AI.
 
 - 🔭 I'm currently building **Agentic Workflows** with **AWS Bedrock** & **LangChain**.
